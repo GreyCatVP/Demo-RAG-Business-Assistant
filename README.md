@@ -23,6 +23,20 @@ cp .env.example .env
 
 ---
 
+### 🧩 Next Steps
+
+This demo can be extended into a full conversational assistant for FinTech / EdTech use cases.  
+Potential roadmap:
+
+1. **Memory & Session Context** — store dialogue history for personalized responses.  
+2. **Intent Router** — classify user requests (FAQ / Sales / Support) and route to the right chain.  
+3. **Quoting Engine** — return cited fragments from source documents in answers.  
+4. **LLM Fine-tuning (LoRA)** — adapt model tone and behavior to brand communication.  
+5. **Tracking & Analytics** — measure conversion rates and dialogue performance metrics.  
+6. **Optional Voice Mode (ASR + TTS)** — planned for future releases.
+
+---
+
 ### ⚙️ Built With
 
 | Framework | Role | Docs |
