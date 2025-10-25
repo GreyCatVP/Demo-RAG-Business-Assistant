@@ -20,3 +20,6 @@ python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 cp .env.example .env
+
+🧾 Licensed under the [MIT License](./LICENSE) — © 2025 Vladislav Popov  
+Made with ❤️ using FastAPI, FAISS and LangChain.
